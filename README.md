@@ -1,6 +1,6 @@
 # michallenge1
 ## Team 
-Gaurav Pandey - PES1201801145 - G    
+Gaurav Pandey - PES1201801145 - CSE
 
 
 
