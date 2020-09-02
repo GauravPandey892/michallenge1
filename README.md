@@ -1,5 +1,10 @@
 # michallenge1
-UE18CS303 Challenge Set - 1/4
+## Team 
+Gaurav Pandey - PES1201801145 - G    
+
+
+
+## UE18CS303 Challenge Set - 1/4
 
 Hi Guys ,
 
